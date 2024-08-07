@@ -1,1 +1,1 @@
-# Clinic_Management_Java_Sample
+# clinic_managed
